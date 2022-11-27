@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: pink;
+  color: black;
+  border-style: dotted;
+}
+button {
+  background-color: black;
+  color: red;
+}
